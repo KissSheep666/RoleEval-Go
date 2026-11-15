@@ -1,0 +1,10 @@
+# 二进制与构建产物
+roleeval.exe
+roleeval
+*.exe
+
+# 生成的报告与结果（可能包含对话内容）
+data/
+
+# 日志
+*.log

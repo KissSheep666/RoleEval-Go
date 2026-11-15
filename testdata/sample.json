@@ -1,0 +1,141 @@
+{
+  "code": 0,
+  "data": {
+    "has_more": false,
+    "message_list": [
+      {
+        "user_id": 10001,
+        "character_id": 38334,
+        "conversation_id": "sample-conv-0001",
+        "turn_list": [
+          {
+            "turn_id": "t7",
+            "turn_type": "normal",
+            "model_id": "27",
+            "model_name": "Auto",
+            "sentence_list": [
+              {
+                "sentence_id": "s7-1",
+                "type": "narration",
+                "role": "rpui",
+                "content": "*瓊看了你一眼* 好的，{\"action\": \"attack\", \"target\"",
+                "sent_ts": 1007,
+                "extra": { "status": "complete" }
+              }
+            ]
+          },
+          {
+            "turn_id": "t6",
+            "turn_type": "normal",
+            "model_id": "27",
+            "model_name": "Auto",
+            "sentence_list": [
+              {
+                "sentence_id": "s6-1",
+                "type": "narration",
+                "role": "rpui",
+                "content": "*她的聲音不大，卻像一把短刀精準地切斷了所有雜音。她偏過頭，灰眼掃向那個黑髮短髮的健壯身影。*",
+                "sent_ts": 1006,
+                "extra": { "status": "complete" }
+              }
+            ]
+          },
+          {
+            "turn_id": "t5",
+            "turn_type": "normal",
+            "model_id": "27",
+            "model_name": "Auto",
+            "sentence_list": [
+              {
+                "sentence_id": "s5-1",
+                "type": "dialogue",
+                "role": "rpui",
+                "content": "公子，你說笑了。",
+                "sent_ts": 1005,
+                "extra": { "status": "complete" }
+              }
+            ]
+          },
+          {
+            "turn_id": "t4",
+            "turn_type": "normal",
+            "model_id": "27",
+            "model_name": "Auto",
+            "sentence_list": [
+              {
+                "sentence_id": "s4-1",
+                "role": "user",
+                "content": "别叫我公子，叫我阿沅。",
+                "sent_ts": 1004,
+                "extra": { "status": "complete" }
+              }
+            ]
+          },
+          {
+            "turn_id": "t3",
+            "turn_type": "normal",
+            "model_id": "27",
+            "model_name": "Auto",
+            "sentence_list": [
+              {
+                "sentence_id": "s3-2",
+                "type": "dialogue",
+                "role": "rpui",
+                "content": "起來。",
+                "sent_ts": 1003,
+                "extra": { "status": "complete" }
+              },
+              {
+                "sentence_id": "s3-1",
+                "type": "narration",
+                "role": "rpui",
+                "content": "*你感到一陣灼熱從膝蓋升起，你決定咬牙忍住，你意識到所有人都在看你。她的聲音不大，卻像一把短刀精準地切斷了所有雜音。她偏過頭，灰眼掃向那個黑髮短髮的健壯身影。她低頭俯視你，灰色眼睛裡沒有嘲諷，也沒有鼓勵，只有一種被歲月磨得極薄極鋒利的審視。臉頰上那道從顴骨斜切至下顎的長疤，在日光下呈現蒼白的肉粉色。訓練場邊緣，幾名高年級騎士從兵器架旁停下擦拭長劍的動作，目光穿過熱浪向這邊聚攏。*",
+                "sent_ts": 1002,
+                "extra": { "status": "complete" }
+              }
+            ]
+          },
+          {
+            "turn_id": "t2",
+            "turn_type": "normal",
+            "model_id": "27",
+            "model_name": "Auto",
+            "sentence_list": [
+              {
+                "sentence_id": "s2-1",
+                "role": "user",
+                "content": "各位見習騎士，我是新來的成員。我叫阿沅，住在天字二號房，我明天要去碼頭接人。",
+                "sent_ts": 1001,
+                "extra": { "status": "complete" }
+              }
+            ]
+          },
+          {
+            "turn_id": "t1",
+            "turn_type": "opening_words",
+            "model_id": "27",
+            "model_name": "Auto",
+            "sentence_list": [
+              {
+                "sentence_id": "s1-2",
+                "type": "dialogue",
+                "role": "rpui",
+                "content": "「安靜！我看你們已經注意到我們新增的男性成員了。你，向前一步，報上名來。」",
+                "sent_ts": 1000,
+                "extra": { "status": "complete" }
+              },
+              {
+                "sentence_id": "s1-1",
+                "type": "narration",
+                "role": "rpui",
+                "content": "*你與五名見習女騎士並肩列隊，感受到她們懷疑的目光。*",
+                "sent_ts": 999,
+                "extra": { "status": "complete" }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
